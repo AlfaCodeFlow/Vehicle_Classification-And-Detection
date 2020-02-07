@@ -15,6 +15,7 @@ pid = 1
 cnt_up=0
 cnt_down=0
 
+print("Car counting and classification")
 
 line_up=400
 line_down=250
