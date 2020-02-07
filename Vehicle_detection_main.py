@@ -16,6 +16,7 @@ cnt_up=0
 cnt_down=0
 
 print("Car counting and classification")
+print("Commit one")
 
 line_up=400
 line_down=250
